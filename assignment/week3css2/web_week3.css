@@ -1,0 +1,47 @@
+div{
+	text-align: center;
+}
+h1{
+	background-color: #FF8C00;
+}
+h2{
+	background-color: #FFA500;
+}
+h3{
+	text-align: center;
+	background-color: #FF7F50;
+}
+li{
+	font-size: 18px;
+}
+br{
+	height: 20px;
+}
+.flex_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flex_container > div{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.flex_container > img{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+/*
+.img50{
+	width: 50%;
+}
+.img40{
+	width: 40%;
+}
+*/
+.padding20px{
+	padding-left: 20px;
+}
+.padding10px{
+	padding-left: 10px;
+}
