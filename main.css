@@ -248,6 +248,7 @@ footer{
     justify-self: end;
     align-self: center;
     color: #ffffff;
+    font-size: 12px;
 }
 @media only screen and (max-width: 768px){
         /* HEADER */
