@@ -231,7 +231,7 @@ footer{
 /* COPYRING */
 .copyring{
     width: 100%;
-    height: 100px;
+    height: 50px;
     background: #323232;
 }
 .copyring-grid{
@@ -316,7 +316,8 @@ footer{
     }
     /* COPRYRING */
     .copyring{
-        height: auto;
+        height: 70px;
+        background: #323232;
     }
     .copyring-grid{
         grid-template-columns: 1fr;
@@ -325,11 +326,13 @@ footer{
         justify-self: center ;
         align-self: center;
         color: #ffffff;
+        margin-top: 10px;
     }
     .copytext{
         justify-self: center;
         align-self: center;
         color: #ffffff;
+        margin-top: 10px;
     }
     /* CONTACT */
     .content-contact-item{
